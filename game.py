@@ -2,6 +2,10 @@ import random
 import string
 from random_word import RandomWords
 
+'''
+piggy game
+
+'''
 def posANDletter(word, target):
     
     count = 0
